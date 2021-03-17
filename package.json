@@ -1,0 +1,31 @@
+{
+    "name": "bot",
+    "version": "2.0.0",
+    "description": "",
+    "main": "index.js",
+    "prettier": {
+        "printWidth": 120,
+        "tabWidth": 4
+    },
+    "dependencies": {
+        "chalk": "^4.1.0",
+        "date-fns": "^2.19.0",
+        "discord.js": "^12.5.1",
+        "dotenv": "^8.2.0",
+        "nedb": "^1.8.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Madscientiste/TwT-Counter.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Madscientiste/TwT-Counter/issues"
+    },
+    "homepage": "https://github.com/Madscientiste/TwT-Counter#readme"
+}
